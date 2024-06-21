@@ -1,0 +1,24 @@
+.nav{
+    width:85%;
+    margin: auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-logo{
+     width:9rem;
+     height:3.8rem;
+}
+.nav-list{
+    width:max-content;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:4rem;
+}
+.nav_list_links{
+    text-decoration: none;
+    color:black;
+}

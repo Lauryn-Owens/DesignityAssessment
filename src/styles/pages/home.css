@@ -1,0 +1,23 @@
+.home-left{
+    width:65%;
+    margin-top:6rem;
+    margin-left:7%;
+}
+.home-headline{
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
+.home-text{
+    color:red;
+    margin-bottom: 2rem;
+}
+.home-nav_button{
+    min-width:10rem;
+    min-height:2rem;
+    background-color: blue;
+    border-radius: 100vh;
+    border:none;
+    outline: none;
+    color:white;
+    padding:0.6rem 1rem;
+}
