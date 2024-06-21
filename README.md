@@ -1,5 +1,8 @@
 # DesignityAssessment
 
+***I didn't have the opportunity to deploy my application. Therefore, to view my web application, you must follow the steps below and view it on your personal desktop. **
+
+
 # Simple React Application with Vite
 
 This is a simple React application bootstrapped with [Vite](https://vitejs.dev/), a fast build tool for modern web projects.
